@@ -40,6 +40,6 @@ un decrecimiento de los accidentes aereos.
 > sqlalchemy <br />
 > geopy <br />
 
-## DIAGRAMA DE FLUJO
+## PIPELINE
 
 ![Alt](/img_pipeline.drawio.png)
