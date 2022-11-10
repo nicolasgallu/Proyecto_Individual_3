@@ -42,4 +42,4 @@ un decrecimiento de los accidentes aereos.
 
 ## PIPELINE
 
-![Alt](/img_pipeline.drawio.png)
+![Alt](/Pipeline/Pipeline.png)
