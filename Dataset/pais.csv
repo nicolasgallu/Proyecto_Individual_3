@@ -1,0 +1,4757 @@
+,pais
+0, United States
+1, France
+2, United States
+3, Canada
+4, Belgium
+5, United Kingdom
+6, United States
+7, United States
+8, United States
+9, Italy
+10, United Kingdom
+11,Maryland
+12,Kent
+13, United States
+14,UK
+15, United States
+16, United States
+17, United States
+18, United States
+19, United States
+20, United States
+21, Colombia
+22, United Kingdom
+23, United States
+24, United States
+25,Pennsylvania
+26,France
+27, Spain
+28, United States
+29, United States
+30, United Kingdom
+31, Spain
+32,Minnisota
+33, United States
+34,Gibraltar
+35, United States
+36, Australia
+37, United States
+38, United States
+39, United States
+40, United Kingdom
+41, France
+42,Australia
+43, France
+44,North Atlantic Ocean
+45, France
+46, United Kingdom
+47, Germany
+48,France
+49, Spain
+50, United States
+51, Italy
+52, Morocco
+53, Morocco
+54, France
+55, Spain
+56, United States
+57, United States
+58,France
+59,Kingdom
+60, Romania
+61, United States
+62,England
+63,Russia
+64, United States
+65, United States
+66, United States
+67,Channel
+68, Colombia
+69,United States
+70, France
+71, United States
+72, United Kingdom
+73,USSR
+74, Spain
+75, France
+76, Spain
+77, Spain
+78, Hungary
+79, United States
+80, United States
+81, Mauritania
+82, United States
+83, Germany
+84, Guernsey
+85,Czechoslovakia
+86, Belgium
+87, Germany
+88, United Kingdom
+89, United States
+90,Kingdom
+91, Germany
+92, Guernsey
+93, Morocco
+94, United States
+95, France
+96, Morocco
+97, Australia
+98, United States
+99, Germany
+100, United States
+101, Algeria
+102, Germany
+103, United Kingdom
+104, United States
+105, United States
+106, United States
+107, Germany
+108,Mauritania
+109, United States
+110, France
+111,Finland
+112, United States
+113, Spain
+114,"Marseille,France"
+115,York
+116, Uruguay
+117, France
+118, Spain
+119, Spain
+120, United States
+121,France
+122, United States
+123, Spain
+124,Brazil
+125, United States
+126, Germany
+127, Germany
+128, United States
+129,Finland
+130, United Kingdom
+131, Netherlands
+132,Canada
+133, France
+134, Australia
+135, United States
+136,Germany
+137, Spain
+138, United States
+139, France
+140, United States
+141, United States
+142, United States
+143, United States
+144,"Janeiro,Brazil"
+145, United States
+146, Germany
+147, United States
+148, United States
+149, France
+150, United States
+151, United States
+152,Greece
+153,Morocco
+154, United States
+155, United States
+156,California
+157, United States
+158, Mexico
+159, Hungary
+160, Algeria
+161, Cuba
+162, Spain
+163,England
+164, United States
+165,Germany
+166, United States
+167, United States
+168, Russia
+169, Germany
+170, United States
+171,Mexico
+172, Iran
+173,North Atlantic Ocean
+174, Canada
+175, United States
+176,Morocco
+177, United States
+178,Italy
+179, United States
+180,Washington
+181, Mexico
+182,England
+183, France
+184,Sardinia
+185, United States
+186, United States
+187,Germany
+188, United States
+189,Nebraska
+190, Madagascar
+191, United States
+192,Spain
+193, United States
+194, United States
+195, United Kingdom
+196, United States
+197, Argentina
+198, United States
+199, Denmark
+200, United States
+201,England
+202,Czechoslovakia
+203, United Kingdom
+204, Canada
+205, Germany
+206,Morocco
+207, Australia
+208, Canada
+209,France
+210, United States
+211,Brazil
+212,California
+213, China
+214, Belgium
+215, United States
+216, New Zealand
+217, Canada
+218, Trinidad and Tobago
+219, Australia
+220, United States
+221,Germany
+222, United States
+223,Australia
+224, United States
+225,Burma
+226, United States
+227, Germany
+228, United States
+229, Australia
+230, United States
+231,Bulgaria
+232, United States
+233, United States
+234,Romania
+235, United States
+236,Canada
+237,Brazil
+238, United States
+239, South Africa
+240, United States
+241, China
+242, United States
+243, United States
+244, Thailand
+245, Algeria
+246, United States
+247, United States
+248, United States
+249, United States
+250, United States
+251, United States
+252,Brazil
+253, United States
+254, United States
+255, United States
+256,Iraq
+257, United States
+258, United States
+259, United States
+260, United States
+261,Chile
+262, Lebanon
+263,Germany
+264, United States
+265, United Kingdom
+266, Australia
+267, Mauritania
+268, Chile
+269, United Kingdom
+270,Germany
+271, United States
+272, United States
+273, United States
+274, Australia
+275, Algeria
+276, United States
+277, United States
+278, United States
+279, United States
+280,Argentina
+281, United States
+282,Belgium
+283, Germany
+284,Italy
+285, Germany
+286,Spain
+287, United States
+288, United States
+289,Aegean Sea
+290, United States
+291,Yugoslavia
+292, United States
+293, France
+294, United States
+295, United States
+296, China
+297,USSR
+298, United States
+299, Germany
+300, South Africa
+301,Belgium
+302, France
+303,Utah
+304, Colombia
+305,Peru
+306,China
+307, Guernsey
+308, United Kingdom
+309, United States
+310, Argentina
+311,Germany
+312, United States
+313, United States
+314,Germany
+315, Brazil
+316, United States
+317, Guernsey
+318,Australia
+319, Australia
+320,Australia
+321,Montana
+322,Australia
+323, Germany
+324, United States
+325, Cuba
+326,Syria
+327, United States
+328, Pakistan
+329, United States
+330, Germany
+331,Californiia
+332, Germany
+333, Egypt
+334,Germany
+335, France
+336, Germany
+337,Colorado
+338, United States
+339, Russia
+340, United States
+341, United States
+342, United States
+343, Colombia
+344, Netherlands
+345,Mississippi
+346, Switzerland
+347, United Kingdom
+348, Colombia
+349, Egypt
+350,Texas
+351,Alaska
+352,Wyoming
+353, United States
+354,Panama
+355,Australia
+356,Wyoming
+357, Estonia
+358, United States
+359, United States
+360,Brazil
+361, United States
+362, Italy
+363, France
+364, France
+365, United Kingdom
+366,Poland
+367,Egypt
+368, Colombia
+369, United States
+370,Boliva
+371,France
+372, United States
+373, United States
+374,South Atlantic Ocean
+375,China
+376, Chile
+377,Mexico
+378, United States
+379, United States
+380, Trinidad and Tobago
+381,Italy
+382, Switzerland
+383, France
+384, Switzerland
+385, Australia
+386, Sweden
+387, Germany
+388,Norway
+389, Croatia
+390, Tajikistan
+391,Jersey
+392, France
+393, Mexico
+394, United States
+395, Colombia
+396, Germany
+397, Greece
+398, United States
+399, Libya
+400, Guernsey
+401,Colorado
+402,Illinois
+403, Mexico
+404, United Kingdom
+405,Germany
+406, Germany
+407, United Kingdom
+408,France
+409, Russia
+410,Africa
+411, United Kingdom
+412,Utah
+413, United States
+414,Pennsylvania
+415, United States
+416, United States
+417,Mexico
+418,California
+419, Algeria
+420, United States
+421,Australia
+422,Gambia
+423,France
+424, United States
+425,Germany
+426, United States
+427, Germany
+428,Lagos
+429,Guinea
+430, Belgium
+431, Sudan
+432,Panama
+433, Romania
+434,China
+435, United States
+436, Argentina
+437, Papua New Guinea
+438,Greece
+439,Indies
+440,Wyoming
+441,Africa
+442, Poland
+443, Germany
+444, Poland
+445, Belgium
+446, United Kingdom
+447, Germany
+448,Italy
+449, Italy
+450, France
+451,Czechoslovakia
+452, Germany
+453, United States
+454,Samoa
+455, Canada
+456,California
+457, Russia
+458, Mexico
+459, France
+460,Mediterranean Sea
+461, France
+462,Cailifornia
+463, India
+464, Australia
+465, France
+466,Italy
+467, Mexico
+468,California
+469, Brazil
+470, United States
+471,Canada
+472, Germany
+473,Tanzania
+474, United States
+475, Italy
+476, Colombia
+477,Romania
+478, Kenya
+479,Guam
+480, Hungary
+481, Japan
+482,Mexico
+483, Germany
+484, Brazil
+485, Romania
+486,Italy
+487,China
+488,Mexico
+489, Australia
+490,Gambia
+491, Switzerland
+492, Germany
+493, Australia
+494,Jersey
+495, Netherlands
+496, Canada
+497,Gambia
+498, Iraq
+499,California
+500, Mexico
+501,Okinawa
+502, Netherlands
+503, France
+504, Brazil
+505, United States
+506, Australia
+507,Bermuda
+508, United States
+509,France
+510, Belgium
+511, Colombia
+512,Washington
+513, United States
+514, Mozambique
+515,Morocco
+516, Ecuador
+517, Netherlands
+518, Netherlands
+519, United Kingdom
+520, Switzerland
+521, Spain
+522,Brazil
+523, Denmark
+524, United States
+525, Germany
+526,North Sea
+527,Colombia
+528, United Kingdom
+529, Greece
+530,Malta-Luqa
+531, Morocco
+532, Indonesia
+533,Italy
+534,Columbia
+535,Gulf of Oman
+536, Italy
+537,Scotland
+538, United States
+539,Estonia
+540, Germany
+541, Australia
+542,"Gospic,,Coatia"
+543, Romania
+544,Virginia
+545, Croatia
+546,China
+547, Germany
+548,Bolivia
+549,Utah
+550, Brazil
+551, Germany
+552, United States
+553, Italy
+554,Mediterranean Sea
+555,Brazil
+556,Hungary
+557, China
+558,Missouri
+559, Canada
+560, United States
+561,Norway
+562, South Africa
+563, United States
+564, Romania
+565,Sea of Japan
+566, Italy
+567, United Kingdom
+568, Brazil
+569,Australila
+570,France
+571, United States
+572,bulgaria
+573,Minnesota
+574, Canada
+575,Turkmenistan
+576, Kazakhstan
+577, Indonesia
+578, United States
+579, Indonesia
+580,Timor
+581,England
+582, China
+583, Australia
+584,Indian Ocean
+585,Australia
+586, China
+587, Australia
+588, United States
+589, United States
+590, Italy
+591,Virginia
+592,Australia
+593, United Kingdom
+594, Algeria
+595, Trinidad and Tobago
+596,Scotland
+597,Africa
+598, Algeria
+599, Brazil
+600,Rico
+601, Canada
+602, Russia
+603, Hungary
+604, United States
+605, Colombia
+606,Norway
+607,Russia
+608,Russia
+609, United States
+610, Austria
+611,Canada
+612,Portugal
+613,Guyana
+614,Ocean
+615, United States
+616,Peru
+617, United States
+618, Portugal
+619,China
+620, China
+621, Australia
+622,North Sea
+623,Guinea
+624,France
+625, United States
+626, France
+627,Australia
+628, Ireland
+629, United States
+630, Romania
+631, Australia
+632,China
+633, Greece
+634, Brazil
+635,North Sea
+636, United States
+637,Carolina
+638, India
+639,Tennessee
+640, Canada
+641, Sweden
+642, United States
+643, Libya
+644, China
+645, China
+646, Papua New Guinea
+647,Scotland
+648, China
+649, Australia
+650, United States
+651, Serbia
+652, United States
+653,Mozambique
+654,China
+655,Greece
+656,Alaska
+657, Serbia
+658,Norway
+659, Canada
+660,China
+661, France
+662, France
+663, France
+664, China
+665, China
+666, Brazil
+667, United States
+668,Guinea
+669,North Atlantic Ocean
+670, United Kingdom
+671,Ocean
+672, United States
+673,Cuba
+674, United Kingdom
+675,England
+676, United Kingdom
+677,Swden
+678, Brazil
+679, Serbia
+680,Australia
+681, United States
+682, United States
+683, Brazil
+684,France
+685,India
+686,Bosnia and Herzegovina
+687, Australia
+688, Norway
+689, Hungary
+690, United Kingdom
+691, United States
+692, United States
+693,China
+694, United Kingdom
+695, Kenya
+696, Honduras
+697,Sweden
+698,China
+699, United States
+700, Ukraine
+701, Guernsey
+702,India
+703, United States
+704,China
+705,China
+706, Australia
+707,Italy
+708,England
+709, United States
+710, Brazil
+711,Poland
+712, United States
+713, Morocco
+714,Australia
+715, China
+716, United States
+717, Australia
+718,Germany
+719, United States
+720,Germany
+721,England
+722, United States
+723,Guinea
+724, United Kingdom
+725, France
+726,Guinea
+727,Coast
+728,China
+729,Australia
+730, Kenya
+731,Carolina
+732, United States
+733,Mexico
+734, France
+735,Mexico
+736, United States
+737,Guinea
+738,Missouri
+739,Guinea
+740,China
+741, United States
+742, United Kingdom
+743, France
+744, Belgium
+745,China
+746,China
+747,Ocean
+748,India
+749, Peru
+750, Malta
+751,China
+752, Germany
+753,India
+754,Mexico
+755,Italy
+756,Italy
+757,Libya
+758,Philippines
+759,Guinea
+760, United Kingdom
+761,France
+762,coast
+763,Bahamas
+764, United States
+765, Norway
+766,Africa
+767,Russia
+768, United States
+769, United States
+770,Russia
+771, France
+772, United States
+773, Canada
+774, United States
+775, Philippines
+776, United States
+777,Czechoslovakia
+778, Australia
+779, United States
+780,Ocean
+781,Ireland
+782, Malta
+783,Nicaragua
+784, United States
+785, Norway
+786,Italy
+787, Panama
+788,Nigeria
+789, France
+790, United States
+791, United States
+792, China
+793, Ecuador
+794, United States
+795, Myanmar
+796, Norway
+797, United States
+798, Malta
+799, France
+800, United States
+801,Canada
+802, Denmark
+803, France
+804, United States
+805,Gambia
+806, United States
+807, Belgium
+808,Newfoundland
+809,Libya
+810,China
+811,Airport
+812,Scotland
+813, Brazil
+814, Canada
+815,Malaya
+816, Netherlands
+817, United States
+818,Morocco
+819, United States
+820,Egypt
+821, France
+822, United States
+823, United States
+824,Mexico
+825, Netherlands
+826,North Pacific Ocean
+827, Costa Rica
+828, Argentina
+829, Japan
+830, United States
+831,Philippines
+832,Ocean
+833,Brazil
+834, United States
+835,China
+836, China
+837, China
+838, United States
+839,Ireland
+840, United States
+841, Brazil
+842, China
+843, United States
+844,England
+845,China
+846,Virginia
+847,Mexico
+848,Colombia
+849, United Kingdom
+850, China
+851, China
+852, Denmark
+853,China
+854,Portugal
+855, United States
+856, Spain
+857, United States
+858,Colombia
+859,Italy
+860,Ocean
+861,USSR
+862,Italy
+863, Colombia
+864, France
+865, Colombia
+866, Sri Lanka
+867,Venezuela
+868,Senegal
+869, United States
+870, Canada
+871,Rica
+872, United States
+873,Russia
+874, United States
+875, Japan
+876,Iceland
+877, United States
+878,France
+879,Brazil
+880, United States
+881, Syria
+882,Karkinitsky
+883,Cameroons
+884, United States
+885,Iran
+886, Argentina
+887,China
+888, Argentina
+889,North Pacific Ocean
+890, United States
+891, Sweden
+892, Romania
+893, United States
+894,Gulf
+895,Norway
+896,Texas
+897,Newfoundland
+898,Spain
+899, United States
+900, United States
+901,Greece
+902, United States
+903, India
+904, Philippines
+905,France
+906, United States
+907, Italy
+908,Romania
+909, United States
+910,Yugoslavia
+911,Italy
+912, United States
+913,Labrador
+914, United States
+915, Russia
+916,India
+917, Mexico
+918, France
+919, United Kingdom
+920,Georgia
+921,Algeria
+922,Republic
+923, United States
+924,China
+925,California
+926,Bermuda
+927, United States
+928,Indonesia
+929,Germany
+930, Italy
+931,France
+932, Philippines
+933, United States
+934,Brazil
+935,France
+936, United Kingdom
+937,Iceland
+938, United States
+939, United States
+940,Brazil
+941, Colombia
+942, France
+943,Germany
+944, Nigeria
+945, Ireland
+946, Australia
+947, Russia
+948,France
+949,(Zaire)
+950, South Africa
+951, United States
+952,England
+953, Russia
+954, Spain
+955,Isle of Man
+956, United States
+957,China
+958, Venezuela
+959, Belgium
+960, United Kingdom
+961,Indo-China
+962, Brazil
+963,Macao
+964, Canada
+965, Argentina
+966, China
+967, Pakistan
+968,Ocean
+969, New Zealand
+970, Venezuela
+971,Minnesota
+972,Congo
+973,Australia
+974, Kazakhstan
+975,Norway
+976,USSR
+977, United Kingdom
+978, New Zealand
+979,USSR
+980,Canada
+981, United Kingdom
+982, United States
+983, Australia
+984, United Kingdom
+985,Russia
+986, Pakistan
+987,China
+988, Italy
+989, Taiwan
+990,Colombia
+991,Greece
+992, China
+993,Spain
+994,Rico
+995,Italy
+996, United States
+997, Brazil
+998, United States
+999,Brazil
+1000, India
+1001,Bermuda
+1002,Scotland
+1003, United States
+1004, United States
+1005,Libya
+1006, Colombia
+1007, Denmark
+1008,Peru
+1009,England
+1010,Peru
+1011,Kong
+1012, Australia
+1013, Germany
+1014, New Zealand
+1015,Russia
+1016, Italy
+1017,England
+1018,Elalat
+1019,Russia
+1020,Greece
+1021,Brazil
+1022, United States
+1023, Italy
+1024,Australia
+1025, United States
+1026, India
+1027,India
+1028, United States
+1029, Russia
+1030, United States
+1031, Brazil
+1032, Ecuador
+1033,Colombia
+1034,Ireland
+1035, United Kingdom
+1036,Manitoba
+1037, Democratic Republic of the Congo
+1038,Canada
+1039, Mexico
+1040,Argentina
+1041, United States
+1042, Portugal
+1043, United States
+1044, United States
+1045, India
+1046,Norway
+1047,Colombia
+1048, United States
+1049, France
+1050,Brazil
+1051, United States
+1052,China
+1053, United States
+1054, Pakistan
+1055, Mexico
+1056, France
+1057,Pakistan
+1058, Spain
+1059,Bolivia
+1060,Madagascar
+1061, Philippines
+1062,Territory
+1063,North Sea
+1064,Czechoslovakia
+1065, United States
+1066, Vietnam
+1067,Wales
+1068, Turkey
+1069,France
+1070,India
+1071, United Kingdom
+1072, Colombia
+1073,Japan
+1074, Ecuador
+1075,Azores
+1076, United States
+1077,Colombia
+1078, United States
+1079,Brazil
+1080,Florida
+1081,Colombia
+1082, Bahrain
+1083,Bahrain
+1084,Bahrain
+1085,Michigan
+1086, Australia
+1087, South Korea
+1088, Morocco
+1089,India
+1090,Angola
+1091, United States
+1092,Japan
+1093, Brazil
+1094,Algeria
+1095,Brazil
+1096, Russia
+1097,California
+1098, United States
+1099,Malaysia
+1100,Egypt
+1101, United States
+1102, Iran
+1103, Marshall Islands
+1104,Yugoslavia
+1105, Sweden
+1106,Japan
+1107, Morocco
+1108,Minnisota
+1109, United Kingdom
+1110, United Kingdom
+1111, France
+1112,Montana
+1113,France
+1114, Indonesia
+1115,Wyoming
+1116, Peru
+1117,Bhutan
+1118,Iran
+1119,Africa
+1120,France
+1121,India
+1122, Brazil
+1123, Brazil
+1124, Venezuela
+1125,Philippines
+1126, Canada
+1127, Argentina
+1128, South Africa
+1129,"Besar,Thailand"
+1130, United States
+1131,Washington
+1132,Italy
+1133,Taiwan
+1134,Iceland
+1135,Cameroons
+1136, Colombia
+1137, United States
+1138, China
+1139, Colombia
+1140,Brazil
+1141,Atlantic
+1142, Russia
+1143, Argentina
+1144, United Kingdom
+1145, Colombia
+1146,California
+1147,Virginia
+1148,Kong
+1149, United States
+1150, United States
+1151,Mexico
+1152, France
+1153, Brazil
+1154, United States
+1155, Brazil
+1156, Colombia
+1157,Liberia
+1158,Yugoslavia
+1159,Colorado
+1160,England
+1161,India
+1162, Brazil
+1163,Guinea
+1164,China
+1165, United States
+1166, Mali
+1167, Bolivia
+1168, France
+1169, United States
+1170, Brazil
+1171,Spain
+1172,California
+1173, India
+1174,Base
+1175, Bolivia
+1176, Mexico
+1177, South Africa
+1178, Canada
+1179, Canada
+1180,Yugoslavia
+1181,Guatemala
+1182,Mexico
+1183, France
+1184,Poland
+1185,Russia
+1186, Egypt
+1187, India
+1188, Switzerland
+1189, Mexico
+1190, United States
+1191,Guinea
+1192, United States
+1193, Iran
+1194,Russia
+1195,York
+1196,Alaska
+1197, United States
+1198, India
+1199,Ireland
+1200,Canada
+1201, United States
+1202, Democratic Republic of the Congo
+1203, United States
+1204,Italy
+1205, India
+1206, Cameroon
+1207, Brazil
+1208, France
+1209, Philippines
+1210,Texas
+1211,Canada
+1212, Germany
+1213,Africa
+1214,Venezuela
+1215, Philippines
+1216, United States
+1217, Japan
+1218, India
+1219, United States
+1220,California
+1221,Brazil
+1222, India
+1223,Norway
+1224, Brazil
+1225,Brazil
+1226,Mauritania
+1227,Baltic Sea
+1228,England
+1229,Sea
+1230,Florida
+1231, Brazil
+1232, Brazil
+1233, Italy
+1234, Sudan
+1235,England
+1236, Sudan
+1237,Russia
+1238,Scotland
+1239,Korea
+1240, Chad
+1241,Alaska
+1242, South Korea
+1243, United States
+1244, United States
+1245,Washington
+1246,Bermuda
+1247, United States
+1248, United States
+1249, Iran
+1250,Taiwan
+1251, United Kingdom
+1252, United States
+1253, United States
+1254,Italy
+1255, Italy
+1256, Canada
+1257, Vietnam
+1258, France
+1259, Egypt
+1260, United States
+1261, Pakistan
+1262, United States
+1263,India
+1264, Canada
+1265, Canada
+1266, Mexico
+1267, Brazil
+1268,Tanganyika
+1269,Madagascar
+1270, Jamaica
+1271, India
+1272, United States
+1273, Vietnam
+1274, United States
+1275,India
+1276,England
+1277, India
+1278, Canada
+1279,Texas
+1280, United States
+1281, Netherlands
+1282,Russia
+1283,Georgia
+1284,Rica
+1285,Chile
+1286,Indo-China
+1287, Brazil
+1288,Japan
+1289,Island
+1290,Florida
+1291,Korea
+1292,Turkey
+1293, United Arab Emirates
+1294,coast
+1295, United States
+1296,France
+1297, United States
+1298, Honduras
+1299, Mexico
+1300, United States
+1301, Turkey
+1302, United States
+1303, Germany
+1304, Vietnam
+1305, United States
+1306,Mexico
+1307,Russia
+1308,California
+1309,Russia
+1310, Bolivia
+1311,Scotland
+1312,Spain
+1313, India
+1314, Guatemala
+1315,Egypt
+1316, United States
+1317, Switzerland
+1318, Turkey
+1319,England
+1320,Italy
+1321, Colombia
+1322, Czechia
+1323, United States
+1324, Italy
+1325, United States
+1326, Japan
+1327, United States
+1328,Malta
+1329, India
+1330, United States
+1331,France
+1332, Singapore
+1333, Australia
+1334,Maryland
+1335, Mexico
+1336,Turkey
+1337, Vietnam
+1338,Italy
+1339, Canada
+1340, Chile
+1341,Laos
+1342,Argentina
+1343, India
+1344, New Zealand
+1345,Brazil
+1346,Slovenia
+1347, Brazil
+1348, Vietnam
+1349, United Kingdom
+1350,Brazil
+1351,China
+1352,Alaska
+1353, Portugal
+1354,Vietnam
+1355,Laos
+1356,Iowa
+1357,Sea
+1358, Russia
+1359,Dekota
+1360, Ireland
+1361, Brazil
+1362, Egypt
+1363, Russia
+1364,Italy
+1365, Russia
+1366,Maryland
+1367, Australia
+1368,Peru
+1369, United States
+1370,Laos
+1371, Slovakia
+1372, United States
+1373,Venezuela
+1374, United States
+1375, United Kingdom
+1376, Russia
+1377,Kentucky
+1378, Canada
+1379, United States
+1380,Colombia
+1381, India
+1382,Nigeria
+1383,Italy
+1384, United States
+1385, Zimbabwe
+1386, Argentina
+1387, Brazil
+1388,Mexic
+1389, Mexico
+1390, Colombia
+1391, United States
+1392, United States
+1393,coast
+1394,Florida
+1395, United States
+1396,Sarawak
+1397,Cameroons
+1398, Kenya
+1399,Venezuela
+1400, Canada
+1401,Cameroon
+1402,Paraguay
+1403, Mexico
+1404, Mexico
+1405, United States
+1406,Bulgaria
+1407, United States
+1408,Russia
+1409,Germany
+1410,Brazil
+1411, Nepal
+1412,(Myanmar)
+1413, United States
+1414,Cameroon
+1415,Canada
+1416, Libya
+1417,HI)
+1418,Canada
+1419,Peru
+1420,Wyoming
+1421, Austria
+1422, United States
+1423, United States
+1424,Washingon
+1425, Japan
+1426,California
+1427, Brazil
+1428,Russia
+1429, United States
+1430, United States
+1431, Australia
+1432, Canada
+1433,Czechoslovakia
+1434, France
+1435, Canada
+1436,Canada
+1437,California
+1438,Malta
+1439,Egypt
+1440, Syria
+1441, Pakistan
+1442, India
+1443, United Kingdom
+1444, India
+1445, Thailand
+1446, United States
+1447, United States
+1448, United States
+1449, Brazil
+1450, United Kingdom
+1451, Nepal
+1452, Canada
+1453, Guatemala
+1454, United States
+1455, Nigeria
+1456, United States
+1457,Michigan
+1458,Jersey
+1459, Ireland
+1460, Argentina
+1461, Myanmar
+1462, United States
+1463, Jordan
+1464, United States
+1465,Alaska
+1466,England
+1467,Ocean
+1468, India
+1469,Sea
+1470, United Kingdom
+1471,Norway
+1472,Nicaragua
+1473,Colombia
+1474, France
+1475,Switzerland
+1476, Venezuela
+1477, Colombia
+1478,Canada
+1479, France
+1480, Germany
+1481,Italy
+1482, Saudi Arabia
+1483, United States
+1484,Argentina
+1485, Nicaragua
+1486, France
+1487,California
+1488, United States
+1489,Korea
+1490, United States
+1491,Japan
+1492, United Kingdom
+1493,Colombia
+1494, United Kingdom
+1495,Philippines
+1496,Bolivia
+1497,Ocean
+1498, Brazil
+1499, Algeria
+1500,Brazil
+1501, Mexico
+1502,Jordan
+1503,England
+1504, India
+1505, Spain
+1506,Greenland
+1507, India
+1508,Argentina
+1509, Russia
+1510, Switzerland
+1511,Maryland
+1512, Canada
+1513, Pakistan
+1514,Canada
+1515,Indonesia
+1516,(Formosa)
+1517, United States
+1518,Canada
+1519, Denmark
+1520, India
+1521,Honduras
+1522, Venezuela
+1523, United States
+1524, Uruguay
+1525, India
+1526,Scotland
+1527,Russia
+1528, Lebanon
+1529, Brazil
+1530, United Kingdom
+1531, Spain
+1532,Mexico
+1533, Germany
+1534, Russia
+1535, United Kingdom
+1536,Ocean
+1537, United Kingdom
+1538,Spain
+1539, New Zealand
+1540, Argentina
+1541,Canada
+1542, Philippines
+1543,Russia
+1544, United Kingdom
+1545,Hawaii
+1546, Argentina
+1547, Brazil
+1548, Bolivia
+1549, Brazil
+1550, United States
+1551, Germany
+1552, Italy
+1553, France
+1554, Egypt
+1555,Azores
+1556,England
+1557,Egypt
+1558,Okinawa
+1559, United States
+1560, Nepal
+1561, United States
+1562, United States
+1563, Ecuador
+1564, United States
+1565, Ecuador
+1566,Spain
+1567,Nevada
+1568, India
+1569, France
+1570, Morocco
+1571, United States
+1572, India
+1573, Brazil
+1574,Algeria
+1575, Philippines
+1576,Mexico
+1577, United States
+1578, Russia
+1579, Brazil
+1580, India
+1581,Massachusetts
+1582,Baangladesh
+1583, Libya
+1584,Brazil
+1585,Japan
+1586,Ireland
+1587, United States
+1588,Russia
+1589,Russia
+1590,Guam
+1591, United Kingdom
+1592, Brazil
+1593,Russia
+1594,DC
+1595, Japan
+1596, France
+1597,Russia
+1598,Sea
+1599, United States
+1600,Venezuela
+1601, Bolivia
+1602,Russia
+1603, Italy
+1604, Cuba
+1605,Italy
+1606, Bolivia
+1607,North Atlantic Ocean
+1608, United States
+1609,Spain
+1610, Uzbekistan
+1611, United Kingdom
+1612, Zimbabwe
+1613, Brazil
+1614, Guatemala
+1615, United States
+1616,Brazil
+1617, United States
+1618,Argentina
+1619, Russia
+1620,Venezuela
+1621,Jordan
+1622, Italy
+1623, United States
+1624, United States
+1625, United States
+1626, United Kingdom
+1627, Chile
+1628, Nicaragua
+1629, India
+1630, Spain
+1631,Republic
+1632,India
+1633, United States
+1634, Mexico
+1635, Turkey
+1636, Spain
+1637, Spain
+1638, United States
+1639, United States
+1640,Peru
+1641,Aregntina
+1642, Peru
+1643,Nicaragua
+1644, Canada
+1645,Peru
+1646,Italy
+1647,Okinawa
+1648, Kuwait
+1649,India
+1650, Pakistan
+1651, United States
+1652, Spain
+1653,Paraguay
+1654, United States
+1655, Mexico
+1656,Honduras
+1657, Brazil
+1658, United States
+1659, France
+1660, United States
+1661, Suriname
+1662, Russia
+1663, United States
+1664,Virginia
+1665, Greece
+1666, Canada
+1667, Ukraine
+1668,Gulf of Mexico
+1669, Lebanon
+1670, United States
+1671,Pennsylvania
+1672,Colombia
+1673,USSR
+1674, United States
+1675, Italy
+1676, Brazil
+1677, Indonesia
+1678,Bolivia
+1679, India
+1680,Carolina
+1681, Libya
+1682, United States
+1683, Turkey
+1684,Jamacia
+1685,Australia
+1686, Bolivia
+1687, Brazil
+1688,Ukraine
+1689, Ireland
+1690, Colombia
+1691, Japan
+1692,Indiana
+1693, Colombia
+1694, Nicaragua
+1695, Brazil
+1696, Colombia
+1697, United States
+1698, Democratic Republic of the Congo
+1699,Venezuela
+1700, Sudan
+1701, Argentina
+1702, United States
+1703,Georgia
+1704, Australia
+1705, United States
+1706, Brazil
+1707,Persian Gulf
+1708,Ecuador
+1709, Philippines
+1710,Ethiopia
+1711, Denmark
+1712,Zaire
+1713,Russia
+1714, United States
+1715,Italy
+1716,Bolivia
+1717, Ukraine
+1718,Morocco
+1719,Greece
+1720,Senegal
+1721,Russia
+1722,Uruguay
+1723,Islands
+1724, Japan
+1725,Canada
+1726, Russia
+1727,Mexico
+1728,Italy
+1729, United States
+1730, Italy
+1731, United States
+1732, Russia
+1733,Montana
+1734, United States
+1735, United States
+1736, Nepal
+1737,Ecuador
+1738, Philippines
+1739, Russia
+1740, Brazil
+1741, Argentina
+1742, United States
+1743, Germany
+1744, Philippines
+1745,Russia
+1746,Czechoslovakia
+1747, Finland
+1748, United States
+1749,Station
+1750, Indonesia
+1751, Canada
+1752, United States
+1753,Indonesia
+1754, Belgium
+1755,Venezuela
+1756,Brazil
+1757,Germany
+1758, Chile
+1759, China
+1760,Algeria
+1761,Washington
+1762,Singapore
+1763,Portugal
+1764, Egypt
+1765, Cameroon
+1766,Nigeria
+1767, Argentina
+1768, Russia
+1769,USSR
+1770, United States
+1771, Morocco
+1772,Argentina
+1773, United States
+1774, Hungary
+1775, Norway
+1776,Greenland
+1777,Illinois
+1778,Ethiopia
+1779, Brazil
+1780,Rica
+1781, Ireland
+1782,Morocco
+1783, United States
+1784, Zambia
+1785, Turkey
+1786, France
+1787, Libya
+1788, Guernsey
+1789, Brazil
+1790, United States
+1791, United States
+1792,Zealand
+1793, Brazil
+1794, Australia
+1795, Germany
+1796, Belgium
+1797, Nicaragua
+1798,Russia
+1799, Turkey
+1800, United States
+1801,Russia
+1802,Ethiopia
+1803, Bolivia
+1804,USSR
+1805,Peru
+1806,Venezuela
+1807,Colombia
+1808, United States
+1809, Cameroon
+1810,Africa
+1811,France
+1812, Italy
+1813, Turkey
+1814,Sea
+1815, United States
+1816,Algeria
+1817, Cuba
+1818,Colombia
+1819, China
+1820,Colombia
+1821, United Kingdom
+1822,Burma
+1823, Brazil
+1824,Greenland
+1825,Egypt
+1826, Kenya
+1827,Missouri
+1828,Germany
+1829,Russia
+1830, France
+1831, Bulgaria
+1832,Indies
+1833,Russia
+1834,USSR
+1835,USSR
+1836,India
+1837, Italy
+1838, Pakistan
+1839,India
+1840,Thailand
+1841, United States
+1842, Russia
+1843, France
+1844, Nepal
+1845, Brazil
+1846, Colombia
+1847,Peru
+1848,Japan
+1849,USSR
+1850,Ohio
+1851,Bolivia
+1852,Czechoslovakia
+1853,Washington
+1854,Russia
+1855,Katanga
+1856, India
+1857,North Atlantic Ocean
+1858, Canada
+1859,Czechoslovakia
+1860, Philippines
+1861,Spain
+1862, United States
+1863, Russia
+1864,Vietnam
+1865,Japan
+1866, United States
+1867, France
+1868, Brazil
+1869, Peru
+1870, United States
+1871, Colombia
+1872,Brazil
+1873, United States
+1874, Poland
+1875, Brazil
+1876, Netherlands
+1877, France
+1878,Alaska
+1879,Russia
+1880, Brazil
+1881, United States
+1882, United States
+1883, United States
+1884,Maryland
+1885, Turkey
+1886, United States
+1887, Russia
+1888,Florida
+1889,Canada
+1890, United States
+1891,Philippines
+1892, Turkmenistan
+1893,Tennesee
+1894,Iran
+1895,Peru
+1896, Italy
+1897,Japan
+1898,Italy
+1899, Russia
+1900, Norway
+1901, Brazil
+1902,Cameroon
+1903,Egypt
+1904,Alaska
+1905, India
+1906,Burma
+1907,Chile
+1908,Hungary
+1909,Germany
+1910, Brazil
+1911, United States
+1912,Zealand
+1913, Russia
+1914, Madagascar
+1915, Laos
+1916,India
+1917, Brazil
+1918, Greenland
+1919, France
+1920,Montana
+1921,Japan
+1922, Russia
+1923,Russia
+1924, United States
+1925, Brazil
+1926, Switzerland
+1927,India
+1928, France
+1929,Deleware
+1930,France
+1931, United States
+1932,Egypt
+1933, Russia
+1934,England
+1935,Finland
+1936, Canada
+1937,Colorado
+1938, United States
+1939, Afghanistan
+1940, Egypt
+1941, United States
+1942, Argentina
+1943, Turkey
+1944, United States
+1945, India
+1946, Philippines
+1947, United States
+1948, Japan
+1949,Austria
+1950,Nevada
+1951, India
+1952, United States
+1953, Colombia
+1954,Massachutes
+1955, United States
+1956,Carolina
+1957, Italy
+1958,North Pacific Ocean
+1959, Somalia
+1960, Saudi Arabia
+1961, United States
+1962, United States
+1963, United States
+1964,Peru
+1965,Spain
+1966,Philippines
+1967,",Philippines"
+1968, Brazil
+1969,Arabia
+1970, Taiwan
+1971,Spain
+1972, United States
+1973,Tennesee
+1974, Germany
+1975, United States
+1976,Tennesee
+1977,Bolivia
+1978,Russia
+1979, Brazil
+1980,Colombia
+1981, Ethiopia
+1982,Spain
+1983, Romania
+1984,Yugoslavia
+1985, United States
+1986, United States
+1987, United States
+1988,Canada
+1989, Sweden
+1990, Italy
+1991, Democratic Republic of the Congo
+1992,Bolivia
+1993,Vietnam
+1994,Philippines
+1995, Peru
+1996, United States
+1997,Rica
+1998, United States
+1999,Russia
+2000, Kazakhstan
+2001, United States
+2002,Mexico
+2003,Greece
+2004,Chile
+2005,York
+2006,Azerbaijan
+2007, United States
+2008,Russia
+2009, Russia
+2010, Philippines
+2011, Canada
+2012, Canada
+2013, Russia
+2014,Colombia
+2015,Rico
+2016,Pakistan
+2017, Morocco
+2018,Syria
+2019,UK
+2020, United States
+2021, Spain
+2022, Egypt
+2023, Canada
+2024,California
+2025, United States
+2026, United States
+2027, United Kingdom
+2028, Egypt
+2029, Canada
+2030,Massachusetts
+2031, United States
+2032,Philippines
+2033, Panama
+2034,Brazil
+2035, United States
+2036, Belgium
+2037, China
+2038, United States
+2039,Phillipines
+2040, Ethiopia
+2041,Vietnam
+2042,Ecuador
+2043,Montserrat
+2044,Vietnam
+2045,Pakistan
+2046, Colombia
+2047,Vietnam
+2048, Philippines
+2049, United Kingdom
+2050,Somaliland
+2051,Rica
+2052,Kentucky
+2053,Colombia
+2054, Russia
+2055, United States
+2056,California
+2057, United States
+2058, United States
+2059, Spain
+2060,Vietnam
+2061, Philippines
+2062, Indonesia
+2063, Russia
+2064, Colombia
+2065, Uzbekistan
+2066,Colombia
+2067, Spain
+2068, Haiti
+2069,Switzerland
+2070,Vietnam
+2071, Germany
+2072, Japan
+2073, India
+2074, India
+2075, Russia
+2076, Russia
+2077, Italy
+2078, Japan
+2079,Japan
+2080, Greece
+2081, United States
+2082, Egypt
+2083, Paraguay
+2084,Oklahoma
+2085, Azerbaijan
+2086, Peru
+2087,Vietnam
+2088, Canada
+2089, Philippines
+2090, New Zealand
+2091, Chile
+2092, United States
+2093,Pakistan
+2094,Indiana
+2095, Mexico
+2096,Nebraska
+2097, Romania
+2098,Argentina
+2099,Vietnam
+2100,Alaska
+2101,Yugoslavia
+2102, India
+2103, Spain
+2104, Colombia
+2105, Australia
+2106,Oregon
+2107, Vietnam
+2108,Louisiana
+2109, United States
+2110, Japan
+2111,Germany
+2112, United States
+2113,Yemen
+2114,Czechoslovakia
+2115,Vietnam
+2116,Colombia
+2117, Russia
+2118, Colombia
+2119,Colombia
+2120,Vietnam
+2121,Mexico
+2122, Indonesia
+2123, Honduras
+2124, Philippines
+2125,Ohio
+2126, Liberia
+2127, Pakistan
+2128, United States
+2129,Vietnam
+2130,Oregon
+2131,Italy
+2132,Russia
+2133,Africa
+2134, United States
+2135, Peru
+2136, Algeria
+2137,Iran
+2138, Cyprus
+2139,Colombia
+2140, Philippines
+2141, United States
+2142,Canada
+2143, Canada
+2144,France
+2145,England
+2146, Saudi Arabia
+2147,Mexico
+2148, Ireland
+2149,Brazil
+2150,Vietnam
+2151, United States
+2152, Saudi Arabia
+2153, China
+2154, Philippines
+2155,Carolina
+2156,Republic
+2157,Laos
+2158,Laos
+2159,Canada
+2160,Vietnam
+2161,Greece
+2162, Germany
+2163,Brazil
+2164, United Kingdom
+2165, China
+2166, United States
+2167,Russia
+2168,Kentucky
+2169,Vietnam
+2170,Laos
+2171,Peru
+2172, United States
+2173, United States
+2174, Thailand
+2175, Latvia
+2176,Russia
+2177,Vietnam
+2178,Nevada
+2179, Egypt
+2180,Islands
+2181, Canada
+2182,India
+2183,Taiwan
+2184, Laos
+2185,Russia
+2186,Vietnam
+2187, France
+2188,Philippines
+2189,Reunion
+2190,Ireland
+2191, United States
+2192, Russia
+2193, United Kingdom
+2194,Chile
+2195,Mexico
+2196,(Namibia)
+2197,Pakistan
+2198,Texas
+2199, Vietnam
+2200, United States
+2201, India
+2202, India
+2203, Spain
+2204, United States
+2205, United Kingdom
+2206,Arabia
+2207,Nigeria
+2208, Brazil
+2209, United States
+2210, Italy
+2211, United States
+2212, Germany
+2213, United States
+2214, United States
+2215,Egypt
+2216,Venezuela
+2217,Norway
+2218, Bulgaria
+2219, United States
+2220,France
+2221,Nigeria
+2222, Costa Rica
+2223,Czechoslovakia
+2224, Brazil
+2225,Vietnam
+2226, United States
+2227, United States
+2228, United States
+2229, Laos
+2230, United States
+2231,Venezuela
+2232, United States
+2233, United States
+2234, United States
+2235, Mexico
+2236, United States
+2237,Mexico
+2238, Australia
+2239, United States
+2240,Taiwan
+2241,England
+2242,Pennsylvania
+2243, United States
+2244, Vietnam
+2245, United States
+2246,California
+2247, Taiwan
+2248, United States
+2249, United States
+2250, United States
+2251, Venezuela
+2252,Egypt
+2253, United States
+2254, Poland
+2255,Vietnam
+2256,Bahamas
+2257, Canada
+2258,Korea
+2259, Democratic Republic of the Congo
+2260, Bangladesh
+2261, Ghana
+2262,Vietnam
+2263, United States
+2264,Burma
+2265, Italy
+2266,Mexico
+2267,Alaska
+2268,Russia
+2269, Kyrgyzstan
+2270, United States
+2271,Nepal
+2272, United States
+2273, United States
+2274, Algeria
+2275, United States
+2276, Ukraine
+2277, Nigeria
+2278,Laos
+2279, Ecuador
+2280, Russia
+2281, Russia
+2282, United States
+2283,Russia
+2284,Laos
+2285,Colombia
+2286,Indiana
+2287,Philippines
+2288, Brazil
+2289, Canada
+2290,Vietnam
+2291, Mexico
+2292, Bolivia
+2293, Nigeria
+2294, China
+2295, Russia
+2296, Canada
+2297,Russia
+2298,York
+2299,Nigeria
+2300,Venezuela
+2301,Mexico
+2302,Russia
+2303,Greece
+2304,Russia
+2305, Vietnam
+2306,Laos
+2307, Sweden
+2308,Greece
+2309, Samoa
+2310,Peru
+2311, India
+2312,Mexico
+2313,Russia
+2314, United States
+2315,Russia
+2316,Romania
+2317,Argentina
+2318,USSR
+2319, United States
+2320,Colombia
+2321,Republic
+2322,Democratic Republic of the Congo
+2323, Switzerland
+2324, Switzerland
+2325,Brazil
+2326,Vietnam
+2327, United States
+2328, Russia
+2329, Morocco
+2330, Ukraine
+2331, Philippines
+2332, Italy
+2333,Guinea
+2334,Islands
+2335,California
+2336, Somalia
+2337, Philippines
+2338, United States
+2339,USSR
+2340,Honduras
+2341, United States
+2342, Libya
+2343, Philippines
+2344,Peru
+2345,Alakska
+2346,Spain
+2347, Canada
+2348,North Atlantic Ocean
+2349, Japan
+2350, United States
+2351, Pakistan
+2352,Peru
+2353, Taiwan
+2354,India
+2355, Netherlands
+2356, Ukraine
+2357,USSR
+2358, United States
+2359,Denmark
+2360, Vietnam
+2361,Colorado
+2362, Taiwan
+2363, United States
+2364,Africa
+2365, United States
+2366, France
+2367,Virginia
+2368,Vietnam
+2369, United States
+2370,Vietnam
+2371, Bangladesh
+2372, India
+2373,Romania
+2374, United States
+2375,Pakistan
+2376, Algeria
+2377,USSR
+2378, Libya
+2379, United States
+2380, Switzerland
+2381,Peru
+2382,France
+2383,USSR
+2384,Korea
+2385, Venezuela
+2386,Russia
+2387,Ecuador
+2388, India
+2389, United States
+2390,Ukraine
+2391, Philippines
+2392, United States
+2393, Guatemala
+2394,Yugoslavia
+2395, Chile
+2396, United States
+2397, United States
+2398, United States
+2399,North Pacific Ocean
+2400,Chile
+2401, United States
+2402, Japan
+2403,Mali
+2404, Philippines
+2405, Russia
+2406,France
+2407,Japan
+2408, United States
+2409,Germany
+2410, United States
+2411, Denmark
+2412,Alaska
+2413,Germany
+2414,Russia
+2415, Ukraine
+2416, Bulgaria
+2417, Brazil
+2418,Belgium
+2419, Russia
+2420, United States
+2421, Colombia
+2422, United States
+2423,Vietnam
+2424, United States
+2425,Italy
+2426,Indonesia
+2427,Russia
+2428,Taiwan
+2429,Vietnam
+2430, Russia
+2431, United States
+2432,Sudan
+2433, India
+2434, Bulgaria
+2435,Peru
+2436,Mexico
+2437,Spain
+2438,Colombia
+2439,Colombia
+2440,Republic
+2441,Indonesia
+2442, Laos
+2443,Colombia
+2444,Laos
+2445, United States
+2446,Emirates
+2447,Yemen
+2448,Brazil
+2449,Italy
+2450, United States
+2451, Ethiopia
+2452,Peru
+2453,Laos
+2454,USSR
+2455,Italy
+2456,Venezuela
+2457,Vietnam
+2458, Russia
+2459,USSR
+2460, Angola
+2461,Germany
+2462, Brazil
+2463, United States
+2464, United States
+2465,Vietnam
+2466, Chile
+2467, India
+2468,Vietnam
+2469,England
+2470, United States
+2471, United States
+2472, United States
+2473,Spain
+2474,Vietnam
+2475,Norway
+2476, Colombia
+2477, India
+2478,Vietnam
+2479,Germany
+2480,Burma
+2481, Venezuela
+2482, Papua New Guinea
+2483,Russia
+2484,Guinea
+2485, Bolivia
+2486, Ethiopia
+2487,Nepal
+2488, United States
+2489,Vietnam
+2490,USSR
+2491, Cambodia
+2492,Chile
+2493,USSR
+2494,coast
+2495, Greece
+2496, Vanuatu
+2497,France
+2498, Italy
+2499,Bulgaria
+2500, United States
+2501, Russia
+2502, Spain
+2503, Pakistan
+2504, United States
+2505, United States
+2506,Antilles
+2507, Norway
+2508, United States
+2509, United States
+2510, Canada
+2511,Scotland
+2512, Russia
+2513, Nigeria
+2514,Honduras
+2515, Cyprus
+2516,Czechoslovakia
+2517, United States
+2518, Panama
+2519,Egypt
+2520, Russia
+2521, Kazakhstan
+2522,Indonesia
+2523, Russia
+2524,France
+2525, India
+2526,Vietnam
+2527,Switzerland
+2528,California
+2529, Afghanistan
+2530,USSR
+2531,USSR
+2532, Cambodia
+2533,Canada
+2534, India
+2535, Brazil
+2536, France
+2537, Brazil
+2538,Mexico
+2539, Jordan
+2540,Russia
+2541,Russia
+2542, France
+2543,Tahiti
+2544, United States
+2545, United States
+2546, United States
+2547,Spain
+2548, Argentina
+2549,USSR
+2550, Colombia
+2551, Colombia
+2552,Spain
+2553,California
+2554, United States
+2555,Yugoslavia
+2556, United States
+2557, United States
+2558, Brazil
+2559,Russia
+2560, Russia
+2561,Russia
+2562, Brazil
+2563, Colombia
+2564, United States
+2565,Mexico
+2566,Vietnam
+2567, Russia
+2568,USSR
+2569, Italy
+2570,Morocco
+2571, Ukraine
+2572, South Africa
+2573,Italy
+2574, United States
+2575, Bolivia
+2576, Ukraine
+2577,Colombia
+2578, Bolivia
+2579,Colombia
+2580, Turkey
+2581, United States
+2582, United States
+2583,Crete
+2584, United States
+2585, Bolivia
+2586,France
+2587, Vietnam
+2588, United States
+2589, Iran
+2590, Botswana
+2591, Indonesia
+2592,USSR
+2593, United States
+2594, Ecuador
+2595, Germany
+2596, United States
+2597, Ukraine
+2598, Canada
+2599, Colombia
+2600,Republic
+2601, United States
+2602, Colombia
+2603,Vietnam
+2604,Canada
+2605,Volta
+2606, Colombia
+2607, Venezuela
+2608,Zaire
+2609,Indonesia
+2610,Greece
+2611, United States
+2612,Vietnam
+2613, Philippines
+2614,Alaska
+2615, United States
+2616,Russia
+2617, Philippines
+2618, Kenya
+2619, Ethiopia
+2620, Spain
+2621,Virginia
+2622,York
+2623, Russia
+2624,Lanka
+2625,Alaska
+2626,Vietnam
+2627, Uzbekistan
+2628, Venezuela
+2629, Romania
+2630, Guatemala
+2631,Vietnam
+2632,Colombia
+2633, United States
+2634,Hunary
+2635, Laos
+2636, Turkey
+2637, Dominican Republic
+2638, United States
+2639, Philippines
+2640, Greece
+2641, United States
+2642, Colombia
+2643, Brazil
+2644,Vietnam
+2645,Argentina
+2646, Sudan
+2647,Russia
+2648,Washington
+2649, United States
+2650,Thailand
+2651, Philippines
+2652, Brazil
+2653, United States
+2654, United States
+2655, Colombia
+2656,USSR
+2657, Taiwan
+2658,Morocco
+2659,Honduras
+2660, United States
+2661, Russia
+2662,USSR
+2663,Syria
+2664,Alaska
+2665,Germany
+2666, Ethiopia
+2667, Indonesia
+2668, Lebanon
+2669, Colombia
+2670, Russia
+2671, Australia
+2672,Bolivia
+2673,Czechoslovakia
+2674,Gulf of Mexico
+2675,USSR
+2676, Guatemala
+2677,USSR
+2678, Bulgaria
+2679,Egypt
+2680, United Kingdom
+2681, United States
+2682,Arabia
+2683, United States
+2684, Russia
+2685, Philippines
+2686,Bolivia
+2687,Ecuador
+2688, China
+2689, Brazil
+2690,Colombia
+2691, United States
+2692, Russia
+2693, United States
+2694, Romania
+2695,Bolivia
+2696,Russia
+2697, United States
+2698,Colombia
+2699, United States
+2700, Argentina
+2701,Gulf of Mexico
+2702, United States
+2703,Philippines
+2704,Spain
+2705,USSR
+2706,Philipines
+2707,Guinea
+2708, United States
+2709, Malaysia
+2710,Czechoslovakia
+2711,Iran
+2712,Spain
+2713,Ecuador
+2714, Vietnam
+2715,England
+2716, United States
+2717, Portugal
+2718,Russia
+2719,Yugoslavia
+2720,Turkey
+2721,Michigan
+2722, Kenya
+2723,Barbados
+2724, Bolivia
+2725, India
+2726,Brazil
+2727, Indonesia
+2728, United States
+2729, Greece
+2730, Russia
+2731, United States
+2732, Russia
+2733, Ukraine
+2734,Russia
+2735,Thailand
+2736,Peru
+2737,California
+2738, United States
+2739,USSR
+2740, Canada
+2741, Sweden
+2742, Slovakia
+2743, Russia
+2744,Canada
+2745,Yemen
+2746,Italy
+2747, Niger
+2748, Spain
+2749,Indonesia
+2750,Russia
+2751, United States
+2752,Colombia
+2753,Estonia
+2754, Guatemala
+2755,Jordan
+2756,Lebanon
+2757,Zambia
+2758, United States
+2759, Cuba
+2760, Brazil
+2761, Uruguay
+2762,Island
+2763, United States
+2764,Angola
+2765, Russia
+2766, Ethiopia
+2767,Chile
+2768, United States
+2769, Costa Rica
+2770, United States
+2771, China
+2772,Ecuador
+2773, United States
+2774,Burma
+2775, United States
+2776,Mexico
+2777, Romania
+2778, Malaysia
+2779,Mississippi
+2780, Mexico
+2781, Italy
+2782,Portugal
+2783,Argentina
+2784,France
+2785,Lebanon
+2786,Malaysia
+2787,Louisiana
+2788,USSR
+2789, Spain
+2790, United States
+2791,Utah
+2792,Portugal
+2793, United States
+2794,Antilles
+2795, Ecuador
+2796,India
+2797,Colombia
+2798, Brazil
+2799,Uruguay
+2800, United States
+2801, Canada
+2802, United States
+2803, United States
+2804, Nigeria
+2805,Venezuela
+2806,Bulgaria
+2807, United States
+2808,Burma
+2809, United States
+2810, United States
+2811,Russia
+2812, Colombia
+2813, United States
+2814, Russia
+2815, Canada
+2816,Norway
+2817, Canada
+2818,Bolivia
+2819,Burma
+2820, United States
+2821, Guinea
+2822, Canada
+2823,(Zimbabwe)
+2824, United States
+2825,Mexico
+2826, United States
+2827, Philippines
+2828, United States
+2829,Finland
+2830, Myanmar
+2831, Russia
+2832, United States
+2833,USSR
+2834, Sri Lanka
+2835,Indies
+2836,India
+2837,Venezuela
+2838, United States
+2839,Coloado
+2840, Italy
+2841, India
+2842,Italy
+2843, United States
+2844, Russia
+2845, Algeria
+2846, France
+2847,Japan
+2848,Brazil
+2849,Rhodesia
+2850, United States
+2851,Zealand
+2852,Ethiopia
+2853, United States
+2854,California
+2855, China
+2856,Qatar
+2857, Russia
+2858, Angola
+2859,Canada
+2860,California
+2861, United States
+2862,Ecuador
+2863, United States
+2864, United States
+2865,Senegal
+2866, United States
+2867,India
+2868, United States
+2869,Indonesia
+2870, Fiji
+2871, United States
+2872, Lebanon
+2873, United States
+2874,Scotland
+2875, United States
+2876,USSR
+2877, India
+2878,Russia
+2879,USSR
+2880,Russia
+2881,Russia
+2882, Taiwan
+2883,Oregon
+2884,Italy
+2885,Canada
+2886, United States
+2887, Canada
+2888, Greece
+2889, United States
+2890, Russia
+2891, Mexico
+2892, United States
+2893, Russia
+2894, United States
+2895,Arabia
+2896,Antarctica
+2897, Colombia
+2898, Russia
+2899,Colombia
+2900,Peru
+2901, Turkey
+2902, Papua New Guinea
+2903,Haiti
+2904,Ocean
+2905, United States
+2906,Iran
+2907,Indonesia
+2908, Cuba
+2909, United States
+2910, Australia
+2911, Philippines
+2912,Poland
+2913,Turkey
+2914, United States
+2915, Brazil
+2916, Russia
+2917,Iran
+2918, Spain
+2919, Thailand
+2920,Bolivia
+2921,Angola
+2922,Russia
+2923, United States
+2924,Italy
+2925,USSR
+2926,Mexico
+2927, United States
+2928, Mauritania
+2929, Saudi Arabia
+2930, Indonesia
+2931,France
+2932, Colombia
+2933, The Bahamas
+2934, Democratic Republic of the Congo
+2935,Arabia
+2936,Zaire
+2937,Egypt
+2938, South Korea
+2939, Colombia
+2940, United States
+2941, Tanzania
+2942,Colombia
+2943,Qatar
+2944,Germany
+2945, United States
+2946, Russia
+2947, United States
+2948, United States
+2949, Brazil
+2950,Philippines
+2951,Islands
+2952, Poland
+2953, Bolivia
+2954, United States
+2955, United States
+2956, Indonesia
+2957, Russia
+2958,Maryland
+2959, Argentina
+2960,Angola
+2961,Mexico
+2962,Ecuador
+2963, Egypt
+2964, Russia
+2965, United Kingdom
+2966, Armenia
+2967, Somalia
+2968,Madagascar
+2969, Colombia
+2970, Mexico
+2971,Taiwan
+2972,Russia
+2973, Argentina
+2974, Russia
+2975, Colombia
+2976, Russia
+2977, United States
+2978,Turkey
+2979, Iran
+2980, United States
+2981, Netherlands
+2982, United States
+2983, Cameroon
+2984,Mexico
+2985, Russia
+2986, Nepal
+2987, Saint Lucia
+2988,France
+2989, United States
+2990,Colombia
+2991,USSR
+2992, United States
+2993,Ethiopia
+2994, United States
+2995, Romania
+2996,Djbouti
+2997, South Korea
+2998, India
+2999,Philippines
+3000, Japan
+3001, Colombia
+3002, United States
+3003, Norway
+3004,Illinois
+3005, United States
+3006, Indonesia
+3007,Colombia
+3008,Alaska
+3009,Turkey
+3010,China
+3011,Yemen
+3012, United States
+3013,Brazil
+3014,Korea
+3015,Brazil
+3016, Brazil
+3017, India
+3018, Indonesia
+3019,USSR
+3020, Russia
+3021, United States
+3022, Philippines
+3023, United States
+3024,Pacific Ocean
+3025, Myanmar
+3026,Nicaragua
+3027,USSR
+3028,Ecuador
+3029, Brazil
+3030,Germany
+3031, Spain
+3032, Angola
+3033, Colombia
+3034, United States
+3035, Chile
+3036,Nicaragua
+3037, Russia
+3038, China
+3039, United States
+3040, United States
+3041, Turkey
+3042, United States
+3043,Afghanistan
+3044, Venezuela
+3045, United States
+3046, United States
+3047,Sudan
+3048, Russia
+3049, Japan
+3050, Ecuador
+3051, United States
+3052,Thailand
+3053,Bahamas
+3054, Russia
+3055, Indonesia
+3056,Kentucky
+3057,Taiwan
+3058,Alaska
+3059, United States
+3060,Mali
+3061, United States
+3062,Ecuador
+3063,UK
+3064, Canada
+3065, United States
+3066,USSR
+3067,Russia
+3068, China
+3069,UAE
+3070,Taiwan
+3071, Brazil
+3072,Myanmar
+3073, United States
+3074, United States
+3075, Angola
+3076,Canada
+3077, Spain
+3078,Nigeria
+3079,Spain
+3080, Colombia
+3081,Canada
+3082, Russia
+3083, Russia
+3084, United States
+3085, Bulgaria
+3086, Bolivia
+3087, Russia
+3088, United States
+3089, United States
+3090, Colombia
+3091, Bolivia
+3092,Bolivia
+3093,Bimini
+3094, Brazil
+3095,Egypt
+3096, United States
+3097, United States
+3098, United States
+3099,Brazil
+3100,Italy
+3101, United States
+3102, United States
+3103, Pakistan
+3104, Bangladesh
+3105, United States
+3106,Indonesia
+3107, United States
+3108, Cameroon
+3109,Guinea
+3110,Florida
+3111,Zaire
+3112, Poland
+3113, Ecuador
+3114,Afghanistan
+3115, Canada
+3116,Russia
+3117, Canada
+3118, Afghanistan
+3119, Philippines
+3120, Peru
+3121,USSR
+3122, United States
+3123,Peru
+3124,Nepal
+3125,Russia
+3126, Bolivia
+3127, United States
+3128, China
+3129, Cuba
+3130, United States
+3131, United States
+3132,Honduras
+3133,Colombia
+3134,Colombia
+3135,USSR
+3136, United States
+3137,California
+3138,Spain
+3139, Mali
+3140,Alaska
+3141, United States
+3142,Colombia
+3143, Argentina
+3144, Thailand
+3145, United States
+3146, Bolivia
+3147, Greenland
+3148,USSR
+3149,Japan
+3150, Venezuela
+3151, United States
+3152, Greece
+3153, Brazil
+3154,Ireland
+3155,USSR
+3156, Colombia
+3157, United States
+3158,Japan
+3159, Indonesia
+3160, Yemen
+3161, United Kingdom
+3162, United States
+3163, United States
+3164,Afghanistan
+3165, United States
+3166,Afghanistan
+3167,Ukraine
+3168, United States
+3169, Brazil
+3170,Australia
+3171,USSR
+3172,Bolivia
+3173, United States
+3174, Myanmar
+3175, United States
+3176,Indonesia
+3177, Canada
+3178,Nepal
+3179, United States
+3180,Guatemala
+3181, United States
+3182, Brazil
+3183, Mexico
+3184, Democratic Republic of the Congo
+3185,Taiwan
+3186,Russia
+3187, United States
+3188,Indonesia
+3189, Canada
+3190,Union
+3191, Central African Republic
+3192,Mozambique
+3193, Mexico
+3194, Greece
+3195,Mexico
+3196,Colombia
+3197, El Salvador
+3198, Sri Lanka
+3199,Djibouti
+3200, Madagascar
+3201,Egypt
+3202, United Kingdom
+3203, United States
+3204,Russia
+3205, Mozambique
+3206,Islands
+3207,Honduras
+3208, South Sudan
+3209, United States
+3210, United States
+3211, Pakistan
+3212, United States
+3213,Brazil
+3214, Indonesia
+3215, United States
+3216,USSR
+3217, Iran
+3218,Africa
+3219, Russia
+3220, United States
+3221, Pakistan
+3222,Nicaragua
+3223,Iran
+3224,Scotland
+3225,Afghanistan
+3226, Germany
+3227, China
+3228, Saudi Arabia
+3229,Fiji
+3230,Guinea
+3231, Côte d'Ivoire
+3232,Ethiopia
+3233, United States
+3234, Uzbekistan
+3235,Guinea
+3236,Afghanistan
+3237, United States
+3238, Kazakhstan
+3239, United States
+3240,California
+3241,Pakistan
+3242, Indonesia
+3243, United States
+3244, United States
+3245, South Sudan
+3246, United States
+3247, Poland
+3248, Canada
+3249, Bolivia
+3250,Indonesia
+3251, Indonesia
+3252, Afghanistan
+3253,Peru
+3254,USSR
+3255, Myanmar
+3256,Philippines
+3257,Carolina
+3258, Mexico
+3259, Chile
+3260, United States
+3261,Thailand
+3262, Brazil
+3263, Afghanistan
+3264, Egypt
+3265, Colombia
+3266,Myanmar
+3267,Italy
+3268, Russia
+3269, United States
+3270,Malawi
+3271, United States
+3272, United States
+3273,Ocean
+3274,Sea
+3275,Rwanda
+3276, United States
+3277, Peru
+3278, Philippines
+3279,Brazil
+3280, France
+3281, United States
+3282,Pacific Ocean
+3283, Turkey
+3284, Mexico
+3285,USSR
+3286,China
+3287, United States
+3288, Taiwan
+3289,Russia
+3290,Panama
+3291,Germany
+3292, United States
+3293, Russia
+3294,Cyprus
+3295,Africa
+3296,France
+3297,Colombia
+3298, Egypt
+3299,Afghanistan
+3300,Africa
+3301,USSR
+3302,Angola
+3303, United States
+3304,Norway
+3305, United States
+3306, Costa Rica
+3307, Germany
+3308, Argentina
+3309, France
+3310,Iran
+3311, Colombia
+3312, United States
+3313,Nigeria
+3314, Bulgaria
+3315, Ukraine
+3316, Russia
+3317, China
+3318, United States
+3319, Mexico
+3320, Thailand
+3321, Ecuador
+3322, Ethiopia
+3323, Brazil
+3324,Russia
+3325, China
+3326,Michigan
+3327, Italy
+3328, India
+3329, India
+3330, Peru
+3331,Poland
+3332, Finland
+3333, France
+3334,Libya
+3335, Russia
+3336, Mauritania
+3337,USSR
+3338,Egypt
+3339, United Kingdom
+3340, United Kingdom
+3341,Texas
+3342, Myanmar
+3343, France
+3344, Portugal
+3345, Malaysia
+3346, United States
+3347,Canada
+3348, Peru
+3349, Canada
+3350, United States
+3351,Texas
+3352, Brazil
+3353, France
+3354,Colombia
+3355, Colombia
+3356,Mexico
+3357, Sweden
+3358,Surinam
+3359, Colombia
+3360, Germany
+3361, Iran
+3362,Peru
+3363, Taiwan
+3364, Cameroon
+3365,Somalia
+3366, United States
+3367, United States
+3368,USSR
+3369, United States
+3370,Guinea
+3371, Philippines
+3372, Libya
+3373, New Zealand
+3374, Greece
+3375,Ethiopia
+3376,Zealand
+3377, United States
+3378, China
+3379, Pakistan
+3380,Brazil
+3381, Cuba
+3382, Denmark
+3383, United States
+3384,Indonesia
+3385,Niger
+3386, United States
+3387,India
+3388, Canada
+3389, United States
+3390, Ukraine
+3391, Canada
+3392, United States
+3393, United States
+3394, Peru
+3395,Russia
+3396, Russia
+3397,Honduras
+3398,USSR
+3399, Taiwan
+3400,Hawaii
+3401, Liberia
+3402,Lesotho
+3403,Russia
+3404, South Korea
+3405, Colombia
+3406,Angola
+3407, Venezuela
+3408, United States
+3409, United States
+3410, United States
+3411,Romania
+3412, New Zealand
+3413, Indonesia
+3414,Russia
+3415, Nicaragua
+3416,Colorado
+3417,Venezuela
+3418,Indonesia
+3419, United States
+3420, Mongolia
+3421,Congo
+3422, United States
+3423, United States
+3424,Colombia
+3425, Brazil
+3426, India
+3427,Zambia
+3428, United States
+3429, India
+3430, Honduras
+3431, Cuba
+3432, Afghanistan
+3433,Angola
+3434,Norway
+3435,Panama
+3436, Philippines
+3437,Canada
+3438, United Kingdom
+3439, Guatemala
+3440, Mexico
+3441,Germany
+3442, Philippines
+3443, Philippines
+3444,Brazil
+3445,Canada
+3446,Guinea
+3447,Afghanistan
+3448,Peru
+3449,USSR
+3450,Afghanistan
+3451, United States
+3452,Germany
+3453, United States
+3454, Canada
+3455,Greenland
+3456, Russia
+3457,Brazil
+3458, United States
+3459, China
+3460, United States
+3461,Bolivia
+3462, Cuba
+3463,Switzerland
+3464, Colombia
+3465,USSR
+3466, Thailand
+3467, Italy
+3468, United States
+3469, Kenya
+3470,Venezuela
+3471, Indonesia
+3472,Arabia
+3473, United States
+3474,Greece
+3475,Ecuador
+3476, United States
+3477, Chile
+3478, Angola
+3479,Colorado
+3480, Venezuela
+3481, United States
+3482, Angola
+3483, Saudi Arabia
+3484, Uzbekistan
+3485, India
+3486, Canada
+3487, United States
+3488, United States
+3489,Polynesia
+3490, Indonesia
+3491,Airzona
+3492,Colombia
+3493,USSR
+3494, Iran
+3495,Thailand
+3496,Inagua
+3497, Angola
+3498,Colombia
+3499,Russia
+3500,Nigeria
+3501, Colombia
+3502, Peru
+3503, United States
+3504, Saudi Arabia
+3505,Vanuatu
+3506, Cook Islands
+3507,Romania
+3508, India
+3509, United States
+3510, United States
+3511, Indonesia
+3512, Malaysia
+3513,Texas
+3514,USSR
+3515,Djibouti
+3516,Vermont
+3517, Russia
+3518,USSR
+3519, Solomon Islands
+3520,Colombia
+3521, Indonesia
+3522,Venezuela
+3523, United States
+3524, Indonesia
+3525,"NWT,Canada"
+3526,Russia
+3527, Brazil
+3528,Russia
+3529, United States
+3530,USSR
+3531, Mozambique
+3532,Russia
+3533, Brazil
+3534, Germany
+3535, Sweden
+3536, Taiwan
+3537,France
+3538, Brazil
+3539,Senegal
+3540, United States
+3541, Bolivia
+3542, Congo-Brazzaville
+3543, United States
+3544, Greece
+3545,Russia
+3546,Libya
+3547,Taiwan
+3548, Kenya
+3549,Guinea
+3550, United States
+3551, United States
+3552, Iran
+3553, Panama
+3554, United States
+3555, Brazil
+3556,Russia
+3557,Lanka
+3558, United States
+3559,Azerbaijan
+3560,Yemen
+3561, Georgia
+3562, North Macedonia
+3563,Indonesia
+3564,Mexico
+3565, United States
+3566, Nepal
+3567, China
+3568, Bolivia
+3569, United States
+3570,Peru
+3571, Canada
+3572,Russia
+3573, Angola
+3574, Peru
+3575, Russia
+3576, United States
+3577,Antilles
+3578, Colombia
+3579,Russia
+3580,Nigeria
+3581, Nepal
+3582, Netherlands
+3583, United States
+3584,China
+3585, Somalia
+3586,Indonesia
+3587,Russia
+3588,Peru
+3589, Russia
+3590,Russia
+3591,Vietnam
+3592,Republic
+3593,China
+3594,Montana
+3595, Mexico
+3596, Democratic Republic of the Congo
+3597, Portugal
+3598, Libya
+3599, United States
+3600, France
+3601, Indonesia
+3602, United Kingdom
+3603,Canada
+3604,Congo
+3605, Indonesia
+3606,Iran
+3607, Colombia
+3608,Taiwan
+3609, North Macedonia
+3610,Brazil
+3611, United States
+3612,Tennesee
+3613,Venezuela
+3614,Alaska
+3615, United States
+3616,Mongolia
+3617, India
+3618,Gambia
+3619,Afghanistan
+3620, Fiji
+3621,Mexico
+3622, Colombia
+3623, Colombia
+3624,Guinea
+3625, Indonesia
+3626, Georgia
+3627,Indonesia
+3628, United States
+3629, China
+3630, South Korea
+3631, Malaysia
+3632, Nepal
+3633,Cuba
+3634,Russia
+3635,Tajikistan
+3636, Poland
+3637, Georgia
+3638, Georgia
+3639, New Zealand
+3640, China
+3641,Norway
+3642, Canada
+3643, China
+3644,Iran
+3645,Macedonia
+3646, United States
+3647,Canada
+3648,Senegal
+3649, Laos
+3650,Philippines
+3651, Armenia
+3652,Russia
+3653, United States
+3654, Russia
+3655, United Kingdom
+3656,Peru
+3657, United States
+3658, India
+3659,Kenya
+3660,Nag
+3661, United States
+3662, United States
+3663, Australia
+3664,Russia
+3665, United States
+3666, Netherlands
+3667, Rwanda
+3668, Ecuador
+3669, Indonesia
+3670,Japan
+3671, Brazil
+3672, Colombia
+3673,Colombia
+3674,Scotland
+3675, China
+3676,Mexico
+3677, Indonesia
+3678, United States
+3679, Côte d'Ivoire
+3680, France
+3681,Mauritania
+3682, United States
+3683, United States
+3684,Martinique
+3685,Congo
+3686, Panama
+3687, Indonesia
+3688,Russia
+3689, United States
+3690, South Korea
+3691, United States
+3692, United States
+3693,Morocco
+3694,Pennsylvania
+3695,Nigeria
+3696, Canada
+3697, Algeria
+3698, China
+3699,Russia
+3700, Paraguay
+3701,Russia
+3702, Colombia
+3703,Iran
+3704,Brazil
+3705,Russia
+3706, Russia
+3707, United States
+3708,Mexico
+3709,Indonesia
+3710,Peru
+3711, United States
+3712,Papua New Guinea
+3713, United States
+3714,Pacific Ocean
+3715, United States
+3716, Angola
+3717,Venezuela
+3718, Papua New Guinea
+3719, United Kingdom
+3720, Algeria
+3721,Turkey
+3722, Iran
+3723,Inodnesia
+3724, Colombia
+3725, United States
+3726, Nepal
+3727,Russia
+3728, France
+3729, United States
+3730, Russia
+3731,Romania
+3732, Nigeria
+3733,Lanka
+3734, Canada
+3735, Ecuador
+3736, Colombia
+3737,Idaho
+3738, United Kingdom
+3739, Colombia
+3740,Senegal
+3741,Zealand
+3742,Russia
+3743,Angola
+3744, Nigeria
+3745, Dominican Republic
+3746, Papua New Guinea
+3747,Guinea
+3748, Indonesia
+3749,Madagascar
+3750,Guinea
+3751, South Africa
+3752,Indonesia
+3753,Salvador
+3754,Colombia
+3755,Georgia
+3756,Alaska
+3757, United States
+3758, Canada
+3759,Colombia
+3760, Afghanistan
+3761, Sri Lanka
+3762, Malaysia
+3763,Mongolia
+3764, United States
+3765,Russia
+3766, Canada
+3767, Indonesia
+3768,Kirghizia
+3769,Argentina
+3770, Nigeria
+3771,Lanka
+3772,Malaysia
+3773, Azerbaijan
+3774,Cameroon
+3775,Russia
+3776,Russia
+3777, Italy
+3778,Angola
+3779,Colombia
+3780,Guinea
+3781,Barbados
+3782, Democratic Republic of the Congo
+3783,Nigeria
+3784, Paraguay
+3785, United States
+3786,Republic
+3787, Haiti
+3788,Sudan
+3789,Angola
+3790, Peru
+3791,Turkmenistan
+3792, Croatia
+3793,Russia
+3794,Taiwan
+3795, United States
+3796,Sudan
+3797,Canada
+3798, Mexico
+3799, United States
+3800,Guinea
+3801, United Kingdom
+3802,Congo
+3803, Iran
+3804, Japan
+3805, China
+3806, United States
+3807, Papua New Guinea
+3808,India
+3809,Netherlands
+3810,Mexico
+3811,York
+3812, United States
+3813,Manmar
+3814, Canada
+3815,Canada
+3816,Wyoming
+3817,Canada2
+3818,Yugosalvia
+3819,Norway
+3820, Netherlands
+3821,Peru
+3822, Democratic Republic of the Congo
+3823, Angola
+3824, Italy
+3825, Ecuador
+3826, Russia
+3827, Brazil
+3828,Guatemala
+3829, Nigeria
+3830, France
+3831,India
+3832,Russia
+3833, United States
+3834,CA
+3835,Comoros
+3836, Russia
+3837, Colombia
+3838, Indonesia
+3839, United States
+3840, Russia
+3841, Colombia
+3842, United States
+3843, United States
+3844,India
+3845,Samoa
+3846,Michigan
+3847, United States
+3848, Nigeria
+3849, Senegal
+3850,Angola
+3851, Brazil
+3852, Guatemala
+3853, Angola
+3854,Iran
+3855, Russia
+3856, United States
+3857,Alaska
+3858, Congo-Brazzaville
+3859,Azerbaijan
+3860, Indonesia
+3861, China
+3862,Congo
+3863, Mongolia
+3864,India
+3865,Colombia
+3866, Brazil
+3867,Cuba
+3868, Indonesia
+3869,Guinea
+3870, Nigeria
+3871, Italy
+3872, United States
+3873, United States
+3874, Taiwan
+3875,Venezuela
+3876, Cambodia
+3877,Malaysia
+3878,Zaire
+3879,Africa
+3880, Indonesia
+3881,Colorado
+3882, Uruguay
+3883, Taiwan
+3884,California
+3885, Afghanistan
+3886,Alaska
+3887, Russia
+3888, Canada
+3889,Bolivia
+3890, United Arab Emirates
+3891, Greece
+3892, Indonesia
+3893, Greece
+3894,Angola
+3895,Ocean
+3896, Panama
+3897, Czechia
+3898,Pakistan
+3899, Myanmar
+3900,Philippines
+3901,Italy
+3902, Portugal
+3903,Spain
+3904,Sudan
+3905, Taiwan
+3906, Kenya
+3907,Taiwan
+3908,Afghanistan
+3909, Philippines
+3910, Peru
+3911,Mexico
+3912,Colombia
+3913, Peru
+3914,Mauritania
+3915,Laos
+3916, United States
+3917,Mongolia
+3918, Canada
+3919, United States
+3920,Emirates
+3921, Argentina
+3922, Eritrea
+3923, Mexico
+3924,England
+3925, Spain
+3926, Brazil
+3927,France
+3928, India
+3929, Canada
+3930, Angola
+3931, New Zealand
+3932,Nepal
+3933, South Africa
+3934,Myanmar
+3935, Ecuador
+3936,Canada
+3937,Angola
+3938, United States
+3939, Pakistan
+3940,Morroco
+3941, Cape Verde
+3942,Lanka
+3943,Venezuela
+3944,Congo
+3945, Armenia
+3946, Uganda
+3947,Guatemala
+3948,Russia
+3949, United States
+3950, Canada
+3951, Thailand
+3952,Angola
+3953, Colombia
+3954, Angola
+3955,Angola
+3956,England
+3957, Germany
+3958, Canada
+3959, Australia
+3960, Nicaragua
+3961, Angola
+3962, Papua New Guinea
+3963,Congo
+3964, China
+3965, Italy
+3966, India
+3967,Colombia
+3968, Canada
+3969, Brazil
+3970,Turkey
+3971,Colombia
+3972,China
+3973, Vanuatu
+3974, Malaysia
+3975,Kenya
+3976, United States
+3977,Sudan
+3978, Philippines
+3979, United States
+3980, Papua New Guinea
+3981,Canada
+3982, Angola
+3983, Myanmar
+3984, Colombia
+3985, Nepal
+3986, Mexico
+3987,Massachusetts
+3988, Japan
+3989,Colombia
+3990, Fiji
+3991,Islands
+3992, China
+3993, Taiwan
+3994, Uzbekistan
+3995, Argentina
+3996, Nepal
+3997, Spain
+3998, Romania
+3999,Brazil
+4000, Mexico
+4001, Saudi Arabia
+4002, Venezuela
+4003, United States
+4004,Massachusetts
+4005,Mexico
+4006,Kosovo
+4007, Russia
+4008,Philippines
+4009, Kuwait
+4010, Portugal
+4011, Guatemala
+4012, United Kingdom
+4013,Afghanistan
+4014, Venezuela
+4015,Nepal
+4016,Turkey
+4017, Nigeria
+4018, Switzerland
+4019,Libya
+4020, Costa Rica
+4021, Côte d'Ivoire
+4022,California
+4023, United States
+4024,Calilfornia
+4025, Russia
+4026,Panama
+4027, Canada
+4028,Spain
+4029, Sri Lanka
+4030, Angola
+4031, Sri Lanka
+4032, United States
+4033, Philippines
+4034, Democratic Republic of the Congo
+4035, Papua New Guinea
+4036, France
+4037, Guyana
+4038, United States
+4039, Gabon
+4040,Pennsylvania
+4041, Philippines
+4042, Australia
+4043, Ghana
+4044, China
+4045, United States
+4046,Japan
+4047,Philippines
+4048,Mexico
+4049, Colombia
+4050, United States
+4051, India
+4052, United States
+4053, The Bahamas
+4054, United States
+4055, France
+4056,Nepal
+4057, Brazil
+4058, Chile
+4059, United States
+4060,Congo
+4061,Bahrain
+4062,Colombia
+4063,Australia
+4064,Lanka
+4065, Mexico
+4066, Canada
+4067, United States
+4068, United States
+4069,Laos
+4070, Georgia
+4071, Taiwan
+4072,Angola
+4073,Congo
+4074, United States
+4075,Angola
+4076, United States
+4077,BO
+4078, China
+4079,Indonesia
+4080, United States
+4081, Venezuela
+4082, United States
+4083, Colombia
+4084, Germany
+4085, United States
+4086,Suriname
+4087,Scotland
+4088, United States
+4089, Thailand
+4090, Saudi Arabia
+4091,Indies
+4092,Indonesia
+4093,Colorado
+4094,Vietnam
+4095,Argentina
+4096, Turkey
+4097,Iran
+4098, Argentina
+4099,Russia
+4100, Indonesia
+4101, Russia
+4102,Korea
+4103,Venezuela
+4104, Russia
+4105, Iceland
+4106,Arizona
+4107,Congo
+4108, United States
+4109,Azores
+4110, Spain
+4111, United States
+4112, United States
+4113, United States
+4114, United States
+4115,Mexico
+4116, Brazil
+4117, Guatemala
+4118,Russia
+4119,Canada
+4120, Italy
+4121, Spain
+4122, United States
+4123, Canada
+4124, United States
+4125, United States
+4126, Russia
+4127, United States
+4128, Estonia
+4129, Switzerland
+4130, Nigeria
+4131,Russia
+4132,Congo
+4133, Colombia
+4134, Germany
+4135, United Kingdom
+4136,Pakistan
+4137, Spain
+4138, Mexico
+4139,Indonesia
+4140,Ecuador
+4141,Angola
+4142,Colombia
+4143,Iran
+4144, Liberia
+4145, Russia
+4146,Philippines
+4147, Italy
+4148,Cuba
+4149,Djibouti
+4150, Spain
+4151, South Korea
+4152, Colombia
+4153,Russia
+4154, Nigeria
+4155,Tunisia
+4156,China
+4157,Nigeria
+4158,Taiwan
+4159,Indonesia
+4160, South Africa
+4161,Angola
+4162,Afghanistan
+4163, Germany
+4164, Central African Republic
+4165,Indonesia
+4166,England
+4167, Nepal
+4168, Ukraine
+4169, Russia
+4170, United States
+4171,Lanka
+4172, Russia
+4173, Nepal
+4174,Russia
+4175, Brazil
+4176, Brazil
+4177,Canada
+4178, India
+4179,Luxembourg
+4180, Indonesia
+4181, United States
+4182, Philippines
+4183,Kenya
+4184,Guinea
+4185, United States
+4186,Taiwan
+4187,Iran
+4188, Brazil
+4189, Comoros
+4190, United States
+4191, Turkey
+4192,Peru
+4193,Gabon
+4194, Kenya
+4195, East Timor
+4196,Morocco
+4197, Estonia
+4198, United States
+4199,Iran
+4200, Pakistan
+4201,Russia
+4202, Algeria
+4203, Indonesia
+4204, United States
+4205,Turkey
+4206, United States
+4207, Italy
+4208,Brazil
+4209, New Zealand
+4210, Brazil
+4211, United States
+4212,France
+4213,Iran
+4214, United States
+4215,Namibia
+4216, Algeria
+4217, Brazil
+4218, Brazil
+4219, Sudan
+4220,Venezuela
+4221,Bahamas
+4222, Kenya
+4223, United States
+4224, United States
+4225, Venezuela
+4226,Alaska
+4227, Russia
+4228, Haiti
+4229, United States
+4230,Canada
+4231,Mexico
+4232, United States
+4233,Arizona
+4234, Canada
+4235,Cachoeria
+4236,Zealand
+4237, Venezuela
+4238, Argentina
+4239, Mexico
+4240, United States
+4241,Iraq
+4242,Australia
+4243,Guyana
+4244, Iraq
+4245, United States
+4246, Democratic Republic of the Congo
+4247, Canada
+4248, Colombia
+4249, United States
+4250, Benin
+4251,Egypt
+4252, Uzbekistan
+4253,Bosnia-Herzegovina
+4254, United Arab Emirates
+4255, Azerbaijan
+4256, United States
+4257, United States
+4258,Mexico
+4259, Colombia
+4260,Sudan
+4261, Sudan
+4262,Brazil
+4263, China
+4264,Kazakhstan
+4265, Kenya
+4266,Nepal
+4267,Gabon
+4268,Leone
+4269,Islands
+4270,Brazil
+4271, Papua New Guinea
+4272, United States
+4273,Venezuela
+4274,Russia
+4275,Russia
+4276,Alaska
+4277, Mexico
+4278,Greece
+4279, United States
+4280, Sudan
+4281, Canada
+4282, United States
+4283, Colombia
+4284, Philippines
+4285,Missouri
+4286, United States
+4287, United States
+4288, Venezuela
+4289, China
+4290, United States
+4291,Afghanstan
+4292, United States
+4293, Indonesia
+4294, Venezuela
+4295, Saudi Arabia
+4296, Brazil
+4297, Russia
+4298,Colombia
+4299, United States
+4300, Iraq
+4301,Hungary
+4302,Iraq
+4303, Afghanistan
+4304,Sudan
+4305, United States
+4306,Guinea
+4307,Indonesia
+4308,Venezuela
+4309,Kingdom
+4310, Russia
+4311,Tanzania
+4312,Colombia
+4313,Albania
+4314, Indonesia
+4315, Iran
+4316, Peru
+4317,Zealand
+4318,Congo
+4319, Australia
+4320,Argentina
+4321, Zambia
+4322, Democratic Republic of the Congo
+4323,Sudan
+4324, Equatorial Guinea
+4325, Canada
+4326,Italy
+4327,Estonia
+4328,Greece
+4329,Venezuela
+4330,Peru
+4331, Indonesia
+4332,Congo
+4333,Congo
+4334,Cogo
+4335, Nigeria
+4336, Iran
+4337, United States
+4338,Nigeria
+4339,Florida
+4340, Azerbaijan
+4341,Karkov
+4342,Uganda
+4343,Iran
+4344,Hungary
+4345,Wisconson
+4346,Tennessee
+4347, Brazil
+4348, Kenya
+4349, Cameroon
+4350, Afghanistan
+4351,Russia
+4352, Canada
+4353,Island
+4354, China
+4355, Chad
+4356,Napal
+4357,Congo
+4358, Russia
+4359, Pakistan
+4360,Afghanistan
+4361, Democratic Republic of the Congo
+4362,Vermont
+4363,Italy
+4364, Ukraine
+4365, United States
+4366,Iran
+4367,Afghanistan
+4368, Russia
+4369, Nigeria
+4370,Brazil
+4371, Norway
+4372, Uzbekistan
+4373,Nigeria
+4374, Indonesia
+4375,Colombia
+4376, Iran
+4377, United States
+4378,Indonesia
+4379,Iraq
+4380,Iraq
+4381, France
+4382, Indonesia
+4383, United States
+4384,Hawaii
+4385, Brazil
+4386, Russia
+4387, Somalia
+4388,Guyana
+4389,Chechnya
+4390,Cameroon
+4391,Egypt
+4392,Congo
+4393,Peru
+4394, Sierra Leone
+4395,Wisconson
+4396, Mongolia
+4397,Congo
+4398,Cambodia
+4399, Angola
+4400, Mexico
+4401, Canada
+4402, Brazil
+4403,Ethiopia
+4404, United States
+4405, Russia
+4406,Polynesia
+4407,Alaska
+4408, Japan
+4409,Brazil
+4410,Iraq
+4411,Congo
+4412,Congo
+4413, Thailand
+4414, Democratic Republic of the Congo
+4415, Democratic Republic of the Congo
+4416,Colombia
+4417, Sudan
+4418,Turkey
+4419,Alaska
+4420, United States
+4421, Venezuela
+4422, North Macedonia
+4423, United Kingdom
+4424, Poland
+4425,Indonesia
+4426, Venezuela
+4427,Argentina
+4428,Nepal
+4429, Suriname
+4430, Australia
+4431,Moldova
+4432, Democratic Republic of the Congo
+4433,Guinea
+4434,Sea
+4435, United States
+4436,California
+4437,Russia
+4438, Panama
+4439, Honduras
+4440, United States
+4441, Sudan
+4442, United States
+4443, Thailand
+4444,Indonesia
+4445,Sudan
+4446, United States
+4447,Sudan
+4448, Mexico
+4449,Colombia
+4450, United States
+4451, Canada
+4452,California
+4453,Thailand
+4454,Somalia
+4455, Spain
+4456, Kyrgyzstan
+4457,Ecuador
+4458, United States
+4459, United Arab Emirates
+4460, Russia
+4461, United States
+4462, United States
+4463, Nepal
+4464, United States
+4465, Iraq
+4466, Canada
+4467,France
+4468, United States
+4469,Texas
+4470,Islands
+4471, United States
+4472,Texas
+4473,Louisiana
+4474, United States
+4475, Brazil
+4476, United States
+4477, Chile
+4478, Egypt
+4479, Netherlands
+4480, Uganda
+4481,Newfoundland
+4482, United States
+4483, Japan
+4484,Scotland
+4485, Indonesia
+4486,Indonesia
+4487,Congo
+4488,Venezuela
+4489,Indonesia
+4490,Congo
+4491,Brazil
+4492,Canada
+4493, India
+4494,Indonesia
+4495,Comoros
+4496, Pakistan
+4497,Iran
+4498, Iran
+4499, Indonesia
+4500, Thailand
+4501, United States
+4502, Papua New Guinea
+4503, Congo-Brazzaville
+4504, South Africa
+4505, United States
+4506, Philippines
+4507, United Arab Emirates
+4508,Antilles
+4509,Russia
+4510, Russia
+4511, Rwanda
+4512,Nevada
+4513, China
+4514, Canada
+4515,Alaska
+4516,Lebanon
+4517,Brazil
+4518, Philippines
+4519,Yemen
+4520, Russia
+4521,Russia
+4522, Mexico
+4523, Philippines
+4524, Libya
+4525,Suriname
+4526, Afghanistan
+4527, India
+4528,Cameroon
+4529, Canada
+4530, Pakistan
+4531,Alaska
+4532,Alaska
+4533, Russia
+4534,Alaska
+4535,Colombia
+4536,Alaska
+4537, Nepal
+4538, China
+4539,Republic
+4540, United Arab Emirates
+4541, New Zealand
+4542, Venezuela
+4543, Afghanistan
+4544,Congo
+4545,Cuba
+4546, Pakistan
+4547, Pakistan
+4548, Russia
+4549,Nepal
+4550, Russia
+4551, Iran
+4552,Africa
+4553, Ireland
+4554,Honduras
+4555, Congo-Brazzaville
+4556, Democratic Republic of the Congo
+4557, Brazil
+4558,Indonesia
+4559,Argentina
+4560, Russia
+4561,Afghanistan
+4562, Democratic Republic of the Congo
+4563,Russia
+4564, Brazil
+4565,Morocco
+4566,Korean
+4567,Russia
+4568, Canada
+4569, United States
+4570,Chile
+4571,Bolivia
+4572, Russia
+4573, Angola
+4574, United States
+4575, Canada
+4576, Nepal
+4577,Indonesia
+4578,Guinea
+4579, Canada
+4580,Hawaii
+4581,Mexico
+4582,Nevada
+4583, United States
+4584, Democratic Republic of the Congo
+4585,Rico
+4586, Russia
+4587, Pakistan
+4588, Colombia
+4589,Indonesia
+4590, Nepal
+4591, Ghana
+4592, Nigeria
+4593,Peru
+4594,Russia
+4595, Indonesia
+4596,Philippines
+4597, Sudan
+4598,Russia
+4599, Nepal
+4600, Antigua and Barbuda
+4601, Yemen
+4602,Congo
+4603,Africa
+4604,Mexico
+4605,Kazakhstan
+4606, Myanmar
+4607, Russia
+4608,Iowa
+4609,Venezuela
+4610,Kazakhstan
+4611, Ukraine
+4612, Democratic Republic of the Congo
+4613,Alaska
+4614, Indonesia
+4615, Afghanistan
+4616, Canada
+4617,India.
+4618, United States
+4619,Alaksa
+4620, Somalia
+4621, United States
+4622, Nigeria
+4623, Malaysia
+4624,Laos
+4625, Bolivia
+4626,Borneo
+4627, Canada
+4628,Russia
+4629, United Kingdom
+4630,Nambia
+4631,Brazil
+4632, Russia
+4633,Romania
+4634,Algeria
+4635,Nepal
+4636, Tunisia
+4637, United Kingdom
+4638, United States
+4639, Mexico
+4640, Finland
+4641,Colombia
+4642, Laos
+4643, Ukraine
+4644, Kenya
+4645, Ukraine
+4646, Taiwan
+4647, Mali
+4648, Iran
+4649, Algeria
+4650, Tanzania
+4651, Papua New Guinea
+4652, United States
+4653,Congo
+4654,Java Sea
+4655,Syria
+4656, Taiwan
+4657, Argentina
+4658,France
+4659, United States
+4660, Indonesia
+4661,Colombia
+4662, Indonesia
+4663,Papua
+4664,Senegal
+4665,Alaska
+4666, Afghanistan
+4667,Indonesia
+4668,Indonesia
+4669,Egypt
+4670, South Sudan
+4671,Zealand
+4672,Russia
+4673,Sweden
+4674, Nepal
+4675,Nepal
+4676, Bangladesh
+4677, Ecuador
+4678, Russia
+4679,Canada
+4680, United States
+4681, Papua New Guinea
+4682,Norway
+4683,coast
+4684,Ocean
+4685,Texas
+4686, United Arab Emirates
+4687,Alaksa
+4688, Malta
+4689,Colombia
+4690,Indonesia
+4691,Pakistan
+4692,Indonesia
+4693, Colombia
+4694,Russia
+4695, Kyrgyzstan
+4696, Australia
+4697, Turkey
+4698,Zimbabwe
+4699, United States
+4700, Nepal
+4701,Myanmar
+4702, Australia
+4703,Mississipi
+4704,Congo
+4705,Angola
+4706, Côte d'Ivoire
+4707, Tanzania
+4708,Saskatchewan
+4709, Costa Rica
+4710,Province
+4711, United States
+4712, Russia
+4713,Iran
+4714, Syria
+4715, United States
+4716,Iran
+4717, Nepal
+4718, Algeria
+4719, United States
+4720, United States
+4721, Cuba
+4722,Kenya
+4723, South Africa
+4724, Switzerland
+4725,Iran
+4726, Federated States of Micronesia
+4727, Indonesia
+4728, Guyana
+4729, Iran
+4730, United States
+4731, Colombia
+4732, Ethiopia
+4733, Chile
+4734,Mexico
+4735, Russia
+4736,India
+4737, India
+4738, United States
+4739, Ukraine
+4740,Congo
+4741, Kazakhstan
+4742, Sudan
+4743,Iran
+4744, Turkey
+4745, Philippines
+4746, Pakistan
+4747, India
+4748, South Sudan
+4749,Ukraine
+4750, Indonesia
+4751,Sudan
+4752,Alaska
+4753,Nigeria
+4754,Myanmar
+4755, Russia
